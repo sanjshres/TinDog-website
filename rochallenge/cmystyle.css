@@ -1,0 +1,64 @@
+body{
+
+}
+
+.heading-section{
+    background-color: white;
+    text-align: center;
+    
+   
+}
+.intro{
+    background-color: teal;
+    text-align: center;
+    padding-top: 50px;
+    margin: -3.5%;
+   
+   
+   
+
+}
+.imageone{
+    
+    
+    
+}
+
+.imageonei{
+    display: block;
+   
+    margin: auto;
+    height: 300px;
+    
+}
+.job{
+   text-align: center;
+    padding: 7% 15%;
+}
+    
+.one{
+    background-color: wheat;
+    text-align: center;
+    padding: 3%;
+    margin-left: auto;
+   margin-right: auto;
+   
+}
+.two{
+    background-color: yellow;
+    text-align: center;
+    padding: 3%;
+   margin-left: auto;
+   margin-right: auto;
+
+   
+}
+
+.three{
+    background-color: rgb(151, 35, 54);
+    text-align: center;
+    padding: 3%;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
